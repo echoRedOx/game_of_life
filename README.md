@@ -1,7 +1,3 @@
-Here's a README file in Markdown format for your implementation of Conway's Game of Life:
-
----
-
 # Conway's Game of Life
 
 This is a Python implementation of Conway's Game of Life using the `pygame` library. The Game of Life is a cellular automaton devised by mathematician John Horton Conway. The simulation consists of a grid of cells, where each cell can be alive or dead. The state of each cell changes based on the number of live neighbors it has, following a set of simple rules.
