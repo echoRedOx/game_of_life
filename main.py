@@ -1,6 +1,7 @@
 import random
 import pygame, sys
 
+#note:
 
 class Grid:
     def __init__(self, width, height, cell_size):
